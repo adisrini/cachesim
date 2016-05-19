@@ -1,0 +1,3 @@
+java cachesim fullAssocTest.txt 1 1024 1
+
+java cachesim LRUTest.txt 1024 4 64

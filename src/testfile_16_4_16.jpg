@@ -1,0 +1,11 @@
+store 0xabc773 9 112233445566778899
+store 0x562771 2 ef34
+load 0x435770 5
+load 0xabc772 8
+load 0x1a4772 2
+store 0x111777 3 edac57
+load 0x562772 3
+load 0xabc781 4
+store 0xabc771 3 beda43
+load 0x435772 1
+load 0x562770 3

@@ -1,0 +1,31 @@
+store 0x100000 miss
+load 0x100000 miss de
+load 0x100000 hit de
+store 0x200000 miss
+load 0x200000 miss fa
+load 0x200000 hit fa
+store 0x300000 miss
+load 0x300000 miss ca
+load 0x300000 hit ca
+store 0x100000 hit
+load 0x100000 hit da
+load 0x100000 hit da
+store 0x100000 hit
+load 0x100000 hit de
+load 0x100000 hit de
+store 0x500000 miss
+load 0x500000 miss 00
+load 0x500000 hit 00
+store 0x100000 hit
+load 0x100000 hit de
+load 0x100000 hit de
+store 0x200000 hit
+load 0x200000 hit fa
+load 0x200000 hit fa
+store 0x300000 hit
+load 0x300000 hit ca
+load 0x300000 hit ca
+store 0x100000 hit
+load 0x100000 hit da
+load 0x100000 hit da
+store 0x500000 hit

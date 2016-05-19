@@ -1,0 +1,31 @@
+store 0x100000 4 deadbeef
+load 0x100000 4
+load 0x100000 4
+store 0x200000 4 faceaced
+load 0x200000 4
+load 0x200000 4
+store 0x300000 4 cadecafe
+load 0x300000 4
+load 0x300000 4
+store 0x400000 4 dacebade
+load 0x400000 4
+load 0x400000 4
+store 0x100000 4 deadbeef
+load 0x100000 4
+load 0x100000 4
+store 0x500000 4 00000000
+load 0x500000 4
+load 0x500000 4
+store 0x100000 4 deadbeef
+load 0x100000 4
+load 0x100000 4
+store 0x200000 4 faceaced
+load 0x200000 4
+load 0x200000 4
+store 0x300000 4 cadecafe
+load 0x300000 4
+load 0x300000 4
+store 0x400000 4 dacebade
+load 0x400000 4
+load 0x400000 4
+store 0x500000 4 00000000

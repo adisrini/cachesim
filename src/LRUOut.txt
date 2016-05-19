@@ -1,0 +1,31 @@
+store 0x100000 miss
+load 0x100000 miss deadbeef
+load 0x100000 hit deadbeef
+store 0x200000 miss
+load 0x200000 miss faceaced
+load 0x200000 hit faceaced
+store 0x300000 miss
+load 0x300000 miss cadecafe
+load 0x300000 hit cadecafe
+store 0x400000 miss
+load 0x400000 miss dacebade
+load 0x400000 hit dacebade
+store 0x100000 hit
+load 0x100000 hit deadbeef
+load 0x100000 hit deadbeef
+store 0x500000 miss
+load 0x500000 miss 00000000
+load 0x500000 hit 00000000
+store 0x100000 hit
+load 0x100000 hit deadbeef
+load 0x100000 hit deadbeef
+store 0x200000 miss
+load 0x200000 miss faceaced
+load 0x200000 hit faceaced
+store 0x300000 miss
+load 0x300000 miss cadecafe
+load 0x300000 hit cadecafe
+store 0x400000 miss
+load 0x400000 miss dacebade
+load 0x400000 hit dacebade
+store 0x500000 miss
